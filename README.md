@@ -12,5 +12,7 @@ Patient_ID	    Patient_Name  Admission_Date	   Treatment
 9	               Olivia Davis	  2022-07-15	    Neurology
 10	             Liam White	    2022-08-22	    Gastroenterology
 
+With this dataset we analyse the question in the code and have written the sql quesry for the process
+
 
 
